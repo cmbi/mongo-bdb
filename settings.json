@@ -1,0 +1,7 @@
+{
+    "DOCUMENT_WILDCARD": "/path/to/bdb/??/????/????.json",
+    "DBHOST": "localhost",
+    "DBPORT": 27017,
+    "DBNAME": "bdb",
+    "COLLECTION": "data"
+}
